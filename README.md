@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucian-af-paschoalotto
+- 👋 Hi, I’m Lucian
 - 👀 I’m interested in C#, .NET, HTML, CSS, JS
 - 🌱 I’m currently learning C#, .NET, Testes de Aplicação
 
